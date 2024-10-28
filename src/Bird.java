@@ -11,6 +11,6 @@ public class Bird extends Animal implements Flyable{
 
     @Override
     public void Fly() {
-        System.out.println("Flyin");
+        System.out.println("Flying");
     }
 }
